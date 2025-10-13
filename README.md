@@ -174,6 +174,8 @@ Every query is logged to `logs/run.jsonl` with details about:
 
 ## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 This project was created for educational purposes as part of an Agentic AI course assignment.
 
 ## Contact
