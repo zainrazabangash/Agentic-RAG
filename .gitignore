@@ -1,0 +1,17 @@
+# Environment variables (keep .env.example but exclude .env)
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ChromaDB data (vector database)
+.chroma/
+
+# Memory and state files
+*.jsonl
+
+# pytest cache
+.pytest_cache/
