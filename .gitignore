@@ -15,3 +15,6 @@ __pycache__/
 
 # pytest cache
 .pytest_cache/
+
+# Markdown files
+*.md
